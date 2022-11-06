@@ -9,6 +9,6 @@
             "required": true        
         }
     },
-    "repository": "https://github.com/netbro201031/heroku-xray-ws-server",
+    "repository": "https://github.com/jovialone1/heroku-xray-ws-server",
     "stack": "container"
 }
